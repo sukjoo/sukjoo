@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T03:34:44.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qblA80YnhCZHumSEhxbT" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T08:17:17.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OA57eeBu4de5SNADq_ek" version="22.1.21" type="github">
   <diagram name="페이지-1" id="XiMFirI8i_UxALZ4BhwH">
-    <mxGraphModel dx="5301" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6850" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="LGSVU-YQGEeL4vBaUkj6-375" value="제목 없는 레이어" style="locked=1;" parent="0" />
@@ -11666,9 +11666,6 @@
         </mxCell>
         <mxCell id="GcNa1Z2rmyqOJg9s9jP5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.72;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsX0kGXXzmoCpT1v_y71-348" target="AsX0kGXXzmoCpT1v_y71-43">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GcNa1Z2rmyqOJg9s9jP5-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1788.02" y="650" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
