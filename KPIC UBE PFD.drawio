@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T01:38:00.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="bZaSwa_-KKbcDy4ryVzo" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T03:11:20.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KNaYgZ2EmISwy2P5ESuQ" version="22.1.21" type="github">
   <diagram name="페이지-1" id="XiMFirI8i_UxALZ4BhwH">
-    <mxGraphModel dx="6656" dy="2690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4986" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="LGSVU-YQGEeL4vBaUkj6-375" value="제목 없는 레이어" style="locked=1;" parent="0" />
@@ -11678,9 +11678,6 @@
               <mxPoint x="-2197" y="720" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GcNa1Z2rmyqOJg9s9jP5-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-2999" y="1281" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
